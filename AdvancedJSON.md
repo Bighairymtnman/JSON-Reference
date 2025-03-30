@@ -9,7 +9,7 @@
 - [Best Practices](#best-practices)
 
 ## JSON Schema
-```json
+```javascript
 // JSON Schema helps validate data structure and enforce data rules
 // Think of it as a blueprint for your JSON data
 {

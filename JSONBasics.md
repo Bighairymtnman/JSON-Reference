@@ -9,7 +9,7 @@
 - [Common Patterns](#common-patterns)
 
 ## JSON Syntax
-```json
+```javascript
 // Basic JSON structure - Every JSON starts with either {} or []
 {
     "string": "Hello, JSON!",  // Text must use double quotes
@@ -27,7 +27,7 @@
 ```
 
 ## Data Types
-```json
+```javascript
 // JSON supports six main data types
 {
     "strings": "Text data",            // For text values
@@ -48,7 +48,7 @@
 ```
 
 ## Objects
-```json
+```javascript
 // Objects group related data together
 {
     "user": {                         // Objects use curly braces
@@ -66,7 +66,7 @@
 ```
 
 ## Arrays
-```json
+```javascript
 // Arrays store lists of values
 {
     "numbers": [1, 2, 3, 4, 5],              // Array of numbers
@@ -80,7 +80,7 @@
 ```
 
 ## Nesting
-```json
+```javascript
 // Example of deeply nested JSON structure
 {
     "company": {                              // Main object
@@ -115,7 +115,7 @@
 ```
 
 ## Common Patterns
-```json
+```javascript
 // Standard API Response Pattern - Used when receiving data from servers
 {
     "status": "success",              // Response status
